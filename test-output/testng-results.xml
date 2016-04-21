@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="141900" started-at="2016-04-21T11:13:06Z" finished-at="2016-04-21T11:15:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="141900" started-at="2016-04-21T11:13:06Z" finished-at="2016-04-21T11:15:28Z">
+      <class name="twc.Android.Automation.TestCases.smokeTestCases">
+        <test-method status="PASS" signature="Before_Launch_App()[pri:0, instance:twc.Android.Automation.TestCases.smokeTestCases@6a5fc7f7]" name="Before_Launch_App" is-config="true" duration-ms="54311" started-at="2016-04-21T16:43:06Z" finished-at="2016-04-21T16:44:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Launch_App -->
+        <test-method status="PASS" signature="Before_Method_Clear_Logcat_Logs()[pri:0, instance:twc.Android.Automation.TestCases.smokeTestCases@6a5fc7f7]" name="Before_Method_Clear_Logcat_Logs" is-config="true" duration-ms="4017" started-at="2016-04-21T16:44:01Z" finished-at="2016-04-21T16:44:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Before_Method_Clear_Logcat_Logs -->
+        <test-method status="PASS" signature="CXTG_Test_Case_Using_Charles()[pri:0, instance:twc.Android.Automation.TestCases.smokeTestCases@6a5fc7f7]" name="CXTG_Test_Case_Using_Charles" duration-ms="83561" started-at="2016-04-21T16:44:05Z" finished-at="2016-04-21T16:45:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CXTG_Test_Case_Using_Charles -->
+      </class> <!-- twc.Android.Automation.TestCases.smokeTestCases -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

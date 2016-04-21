@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Default suite]">
+  <test name="Default test(failed)">
+    <classes>
+      <class name="twc.Android.Automation.TestCases.smokeTestCases">
+        <methods>
+          <include name="CXTG_Test_Case_Using_Charles"/>
+          <include name="Before_Launch_App"/>
+        </methods>
+      </class> <!-- twc.Android.Automation.TestCases.smokeTestCases -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->
